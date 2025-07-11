@@ -1,0 +1,51 @@
+nav ul li{
+list-style:none
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+nav h1{
+    color: blue;
+}
+.btn{
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+}
+.sondor{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.picture{
+    background-image: url(../Assets/Hero-bg.png);
+    padding: 0px 0px 200px 0px;
+}
+.bannerlogo{
+    height: 320px;
+    width: 400px;
+    
+}
+.banner{ 
+    display: flex;
+    justify-content: space-between;
+    padding-top:0px 0pxs;
+    height: 380px;
+    width: 1140px;
+    
+}
+
+
+
+
+
+
+
+
+
